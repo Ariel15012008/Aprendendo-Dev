@@ -4,6 +4,8 @@ import Telegram from "../assets/Telegram.png"
 import Vector1 from "../assets/Vector (1).png"
 import Clippathgroup from "../assets/Clip path group.png"
 import Fundo from "../assets/Fundo.png"
+import Banner from "./Banner"
+
 export default function Header() {
     return (
 
@@ -44,7 +46,8 @@ export default function Header() {
     <div>
        
     </div>
-</div>
+    <Banner />
+    </div>
     );
   }
   
