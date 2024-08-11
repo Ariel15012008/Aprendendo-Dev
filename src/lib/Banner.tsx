@@ -14,7 +14,7 @@ export default function Banner(){
         <div className=" flex justify-center p-2 w-[40px] mt-3 border-white border-solid border border-spacing-0 rounded-full">
         <img src={Fav} alt="" className="w-4 " />
         </div>
-        <div className="flex items-center justify-center text-white ml-6 mt-2 border-white border border-2 w-44 text-base rounded-[14px] font-semibold">EXPLORE ANIME</div>
+        <div className="flex items-center justify-center text-white ml-6 mt-2 border-white  border-2 w-44 text-base rounded-[14px] font-semibold">EXPLORE ANIME</div>
         </div>
     </div>
     </>
